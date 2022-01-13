@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @herrfrosch
-- 👀 I’m interested in of course computer programming, automation control, music also I'm looking forward to embeed programming
-- 🌱 I’m currently learning C++ and web languages (HTML, CSS, JS, PHP, MySQL) for educational purposes, C#, Java and Kotlin app and android applications, python and C just for fun (I'm trying to find my favorite language)
-- 💞️ I’m looking to collaborate on crazy newbie programs
+- 👀 I’m interested in of course computer programming, automation control and music.
+- 🌱 Currentrly I'm trying to master JS, and try some framework, as well as TypeScript
 - 📫 How to reach me- send me an e-mail.
 
 <!---
