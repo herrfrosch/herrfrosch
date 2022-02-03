@@ -7,4 +7,3 @@ I'm a beginner in programming, so projects at my profile aren't really sophistic
 ### Languages I learn:
 - JavaScript 🔥
 - Python 🐍
-- Java && C# ☕
